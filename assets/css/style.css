@@ -93,15 +93,16 @@ li{
         max-width: 600px;
     }
     .menu ul {
-        font-size: 14px;
         flex-direction: column;
-        padding: 0;
+        padding-bottom: 150px;
         margin: 0;
+
     }
     .menu ul li a{
         color: #fff;
-        font-size: 25px;
+        font-size: 35px;
         font-family: 'Poppins';
+
     }
     .hamburguer{
         
